@@ -29,7 +29,7 @@ ToDoApp.java → main class with Swing UI code
 ▶️ How to Run
 Install JDK 17 and an IDE (Eclipse/IntelliJ).
 Clone this repository:
-git clone https://github.com/your-username/todoapp.git
+git clone https://github.com/thulasikumar023/Java-GUI-ToDoApp.git
 
 Import the project into your IDE.
 Make sure module-info.java includes:
